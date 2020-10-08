@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DoubleDatabase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaCline" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaCline2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaFeignTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RedisTemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpeingSecurity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSecurityOauth2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authrization_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou-user-oauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test" charset="UTF-8" />
+  </component>
+</project>

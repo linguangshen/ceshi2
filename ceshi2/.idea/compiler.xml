@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="changgou-user-oauth" />
+        <module name="DoubleDatabase" />
+        <module name="EurekaCline" />
+        <module name="EurekaCline (1)" />
+        <module name="EurekaFeignTest" />
+        <module name="EurekaServer" />
+        <module name="RedisTemplate" />
+        <module name="SpeingSecurity" />
+        <module name="test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authrization_server" target="1.8" />
+      <module name="SpringSecurityOauth2" target="1.8" />
+      <module name="Tree" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

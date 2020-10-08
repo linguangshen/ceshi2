@@ -1,0 +1,5 @@
+server:
+  port: 18086
+myurl:
+  url1: www.baidu.com
+  url2: www.taobao.com
